@@ -1,0 +1,16 @@
+{
+  "title": "Eberron",
+  "id": "eberron",
+  "system": "pf2e",
+  "background": "dnd-5e-chronicles-of-eberron-artwork.jpg",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "5.13.6",
+  "lastPlayed": "Sat Apr 20 2024 15:26:39 GMT+0100 (British Summer Time)",
+  "safeMode": false,
+  "playtime": 18774,
+  "joinTheme": "default"
+}

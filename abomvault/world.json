@@ -1,0 +1,44 @@
+{
+  "title": "The Abomination Vaults",
+  "id": "abomvault",
+  "system": "pf2e",
+  "coreVersion": "12.327",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.327"
+  },
+  "systemVersion": "6.0.4",
+  "packs": [
+    {
+      "label": "New Compendium (78)",
+      "type": "JournalEntry",
+      "name": "new-compendium-78",
+      "path": "packs/new-compendium-78",
+      "system": "pf2e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "(The MAD Cartographer | Urban Exteriors | Battlemap Pack)TheMADCartographer | Urban Exteriors",
+      "name": "mad-urbanext-mad-urbanext-actors",
+      "type": "Actor",
+      "path": "packs/mad-urbanext-mad-urbanext-actors",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "lastPlayed": "Sun Jun 23 2024 21:29:16 GMT+0100 (British Summer Time)",
+  "safeMode": false,
+  "playtime": 24574,
+  "description": "<p>When the mysterious Gauntlight, an eerie landlocked lighthouse, glows with baleful light, the people of Otari know something terrible is beginning. The town's newest heroes must venture into the ruins around the lighthouse and delve the dungeon levels far beneath it to discover the evil the Gauntlight heralds. Hideous monsters, deadly traps, and mysterious ghosts all await the heroes who dare to enter the sprawling megadungeon called the Abomination Vaults!</p>",
+  "background": "abooo.jpg",
+  "joinTheme": "default",
+  "nextSession": "2023-11-26T18:30:00.000Z"
+}
